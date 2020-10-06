@@ -1,0 +1,180 @@
+[
+  {
+    "type": "modeling",
+    "mediaType": "embed",
+    "caption": "Adventure 3D Reel",
+    "imgSrc": "adventure.png",
+    "embedUrl": "https://player.vimeo.com/video/278965903"
+  },
+  {
+    "type": "modeling",
+    "mediaType": "embed",
+    "caption": "Candlestick",
+    "imgSrc": "candlestick.png",
+    "embedUrl": "https://player.vimeo.com/video/434354160"
+  },
+  {
+    "type": "modeling",
+    "mediaType": "embed",
+    "caption": "Post and Beam",
+    "imgSrc": "postandbeam.png",
+    "embedUrl": "https://player.vimeo.com/video/434354279"
+  },
+  {
+    "type": "modeling",
+    "mediaType": "embed",
+    "caption": "Floor Board ZBrush",
+    "imgSrc": "floorboardzbrush.png",
+    "embedUrl": "https://player.vimeo.com/video/434354361"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "Stargazer",
+    "imgSrc": "stargazer.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "Alice in Twisted Land",
+    "imgSrc": "aliceintwistedland.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "Dawn or Dusk",
+    "imgSrc": "dawnordusk.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "Chesnut Hair",
+    "imgSrc": "chesnuthair.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "Chibi Miku =3",
+    "imgSrc": "chibimiku3.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "Essi x Anon =D",
+    "imgSrc": "essixanond.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "Heartthorb",
+    "imgSrc": "heartthrob.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "He's Called Troy",
+    "imgSrc": "hescalledtroy.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "Lil' Girl",
+    "imgSrc": "lilgirl.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "Miku o.O",
+    "imgSrc": "mikuo_o.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "Not Gonna Give Up",
+    "imgSrc": "notgonnagiveup.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "Robotic Girl",
+    "imgSrc": "roboticgirl.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "Shinigami",
+    "imgSrc": "shinigami.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "Snow Girl",
+    "imgSrc": "snowgirl.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "The Original Flower Girl",
+    "imgSrc": "theoriginalflowergirl.jpg"
+  },
+  {
+    "type": "digitalart",
+    "mediaType": "img",
+    "caption": "Violinist",
+    "imgSrc": "violinist.jpg"
+  },
+  {
+    "type": "paperpencil",
+    "mediaType": "img",
+    "caption": "Assassin",
+    "imgSrc": "assassin.jpg"
+  },
+  {
+    "type": "paperpencil",
+    "mediaType": "img",
+    "caption": "Deep Sea Girl",
+    "imgSrc": "deepseagirl.jpg"
+  },
+  {
+    "type": "paperpencil",
+    "mediaType": "img",
+    "caption": "Genjo Sanzo-Saiyuki 3",
+    "imgSrc": "genjosanzosaiyuki3.jpg"
+  },
+  {
+    "type": "paperpencil",
+    "mediaType": "img",
+    "caption": "Hot Cocoa",
+    "imgSrc": "hotcocoa.jpg"
+  },
+  {
+    "type": "paperpencil",
+    "mediaType": "img",
+    "caption": "Kitsune Girl",
+    "imgSrc": "kitsunegirl.jpg"
+  },
+  {
+    "type": "paperpencil",
+    "mediaType": "img",
+    "caption": "Mermaid",
+    "imgSrc": "mermaid.jpg"
+  },
+  {
+    "type": "paperpencil",
+    "mediaType": "img",
+    "caption": "Roses",
+    "imgSrc": "roses.jpg"
+  },
+  {
+    "type": "paperpencil",
+    "mediaType": "img",
+    "caption": "Trapped",
+    "imgSrc": "trapped.jpg"
+  },
+  {
+    "type": "paperpencil",
+    "mediaType": "img",
+    "caption": "True Sels",
+    "imgSrc": "trueself.jpg"
+  }
+]
